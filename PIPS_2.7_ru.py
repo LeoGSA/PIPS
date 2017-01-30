@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# © LeoGSA - Sergey Grigoriev
+
 import sys, pickle, os, time, requests
 # from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5 import QtCore, QtGui, QtWidgets

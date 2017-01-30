@@ -1,4 +1,5 @@
 # -*- coding: <utf-8> -*-
+# © LeoGSA - Sergey Grigoriev
 
 import pickle
 import sqlite3
