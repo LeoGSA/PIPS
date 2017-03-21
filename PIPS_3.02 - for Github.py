@@ -1,3 +1,6 @@
+# coding: utf-8
+# © LeoGSA - Sergey Grigoriev (leogsa@gmail.com)
+
 import sys, os, time, requests, datetime
 import re
 
